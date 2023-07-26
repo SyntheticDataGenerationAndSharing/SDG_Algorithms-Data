@@ -4,20 +4,20 @@ This repository belongs to IEEE PES Task Force on Power System Synthetic Data Ge
 We encourage researchers to contribute to the community by open-sourcing their algorithms on the topic of Synthetic Data Generation.
 
 ## Organizers
-Yiyan Li (Shanghai Jiao Tong University)
+Yi Hu (North Carolina State University)
 
 Ning Lu (North Carolina State University)
 
-Yi Hu (North Carolina State University)
-
 ## Contact
-Please feel free to send any questions and comments to yhu28@ncsu.edu
+Please send your questions and comments to: hugh19flyer@gmail.com
 
 ## Citation
 If you are using the shared dataset, please cite:
 
 ## Open-source Algorithms
 ### 1. MultiLoad-GAN
+figures
+
 Generate a group of load profiles considering spatial-temporal correlations. https://github.com/hughwln/MultiLoad-GAN_public
 
 _Yi Hu,  Yiyan Li, Lidong Song, Han Pyo Lee, PJ Rehm, Matthew Makdad, Edmond Miller, and Ning Lu, "MultiLoad-GAN: A GAN-Based Synthetic Load Group Generation Method Considering Spatial-Temporal Correlations," submitted to IEEE Transactions on Smart Grid (2022). Available online at: https://arxiv.org/abs/2210.01167._
