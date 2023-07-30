@@ -1,5 +1,5 @@
 # Synthetic Data Generation Algorithms and Data Sharing
-This repository belongs to IEEE PES Task Force on Power System Synthetic Data Generation and Sharing. https://cmte.ieee.org/pes-pssdgs/
+This repository works for IEEE PES Task Force on Power System Synthetic Data Generation and Sharing. https://cmte.ieee.org/pes-pssdgs/
 
 We encourage researchers to contribute to the community by open-sourcing their algorithms on the topic of Synthetic Data Generation.
 
